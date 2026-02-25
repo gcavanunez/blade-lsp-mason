@@ -1,6 +1,8 @@
 ---
 name: blade-lsp
-description: Language Server Protocol implementation for Laravel Blade templates.
+description: |
+  Language Server Protocol implementation for Laravel Blade templates, built with TypeScript, Node.js, and
+  tree-sitter-blade.
 homepage: https://github.com/gcavanunez/blade-lsp
 licenses:
   - MIT
