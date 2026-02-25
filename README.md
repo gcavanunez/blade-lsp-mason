@@ -19,4 +19,4 @@ Then run `:MasonUpdate` to refresh registries, followed by `:MasonInstall blade-
 
 ## Packages
 
-- **blade-lsp** — LSP for Laravel Blade templates
+- **[blade-lsp](https://github.com/gcavanunez/blade-lsp)** — LSP for Laravel Blade templates
